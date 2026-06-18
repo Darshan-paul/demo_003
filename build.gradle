@@ -19,3 +19,9 @@ tasks.register("prepareDocs") {
         println "Preparing documentation..."
     }
 }
+
+
+
+this above code is the last pasted code after removing all code in build.gradle
+
+<dependencies {    implementation 'org.seleniumhq.selenium:selenium-java:4.31.0'    testImplementation 'org.testng:testng:7.11.0'}
